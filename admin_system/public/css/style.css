@@ -1,0 +1,6 @@
+/* This file is no longer used. Styles are handled by Tailwind CSS in login_view.php via CDN. 
+   If you decide to use a Tailwind build process, you can configure directives here:
+   @tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+*/
